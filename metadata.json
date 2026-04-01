@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Laporan Kinerja PJLP",
+  "description": "Aplikasi pelaporan kinerja PJLP dengan format resmi sesuai standar Dinas Perhubungan DKI Jakarta, dilengkapi fitur tema otomatis dan manajemen kegiatan.",
+  "requestFramePermissions": []
+}
